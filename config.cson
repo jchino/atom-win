@@ -1,0 +1,28 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "672fd50c-966b-4f41-b2e5-a2c6eb2aa140"
+    java:
+      configPath: "~/.atom/uncrustify-java.cfg"
+    js:
+      end_with_comma: true
+      indent_size: 2
+      keep_array_indentation: true
+      keep_function_indentation: true
+    json: {}
+  core:
+    telemetryConsent: "no"
+  editor:
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "db5036b8-0f66-90e2-1158-abacd0ad2790"
+  "highlight-selected": {}
+  linter: {}
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      "minimap-autohide": true
+      "minimap-autohideDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false

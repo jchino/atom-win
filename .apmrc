@@ -1,0 +1,2 @@
+https-proxy=http://jp-proxy.jp.oracle.com:80/
+http-proxy=http://jp-proxy.jp.oracle.com:80
