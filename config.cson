@@ -13,6 +13,7 @@
   core:
     telemetryConsent: "no"
   editor:
+    fontFamily: "源ノ角ゴシック Code JP"
     showIndentGuide: true
   "exception-reporting":
     userId: "db5036b8-0f66-90e2-1158-abacd0ad2790"
