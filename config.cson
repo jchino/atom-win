@@ -25,5 +25,9 @@
       "highlight-selectedDecorationsZIndex": 0
       "minimap-autohide": true
       "minimap-autohideDecorationsZIndex": 0
+  "platformio-ide-terminal":
+    core: {}
+  "terminal-plus":
+    core: {}
   welcome:
     showOnStartup: false
