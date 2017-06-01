@@ -18,6 +18,8 @@
   "exception-reporting":
     userId: "db5036b8-0f66-90e2-1158-abacd0ad2790"
   "highlight-selected": {}
+  "line-ending-selector":
+    defaultLineEnding: "LF"
   linter: {}
   "linter-ui-default":
     panelHeight: 69
