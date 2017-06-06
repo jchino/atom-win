@@ -1,5 +1,5 @@
 atom-beautify@0.29.26
-busy-signal@1.4.1
+busy-signal@1.4.3
 emmet@2.4.3
 file-icons@2.1.7
 highlight-selected@0.13.1
