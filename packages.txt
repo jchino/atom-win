@@ -1,7 +1,7 @@
 atom-beautify@0.30.3
 busy-signal@1.4.3
 emmet@2.4.3
-file-icons@2.1.7
+file-icons@2.1.8
 highlight-selected@0.13.1
 intentions@1.1.2
 linter@2.2.0
