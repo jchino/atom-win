@@ -7,14 +7,14 @@ intentions@1.1.2
 linter@2.2.0
 linter-ui-default@1.6.2
 maximize-panes@0.2.0
-minimap@4.28.2
+minimap@4.28.3
 minimap-autohide@0.10.1
 minimap-highlight-selected@4.6.1
 pigments@0.39.1
-platformio-ide-terminal@2.5.1
+platformio-ide-terminal@2.5.3
 project-manager@3.3.5
 script@3.15.0
 svg-preview@0.11.0
 todo-show@1.11.0
-vim-mode-plus@0.93.0
+vim-mode-plus@0.94.0
 
