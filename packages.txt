@@ -5,9 +5,9 @@ file-icons@2.1.9
 highlight-selected@0.13.1
 intentions@1.1.2
 linter@2.2.0
-linter-ui-default@1.6.2
+linter-ui-default@1.6.3
 maximize-panes@0.2.0
-minimap@4.28.3
+minimap@4.29.0
 minimap-autohide@0.10.1
 minimap-highlight-selected@4.6.1
 pigments@0.39.1
