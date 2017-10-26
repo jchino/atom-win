@@ -33,5 +33,7 @@
     core: {}
   "terminal-plus":
     core: {}
+  "vim-mode-plus":
+    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
   welcome:
     showOnStartup: false
