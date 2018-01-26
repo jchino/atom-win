@@ -12,6 +12,7 @@
     json: {}
   core:
     telemetryConsent: "no"
+    uriHandlerRegistration: "never"
   editor:
     fontFamily: "源ノ角ゴシック Code JP"
     showIndentGuide: true
