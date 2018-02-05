@@ -16,5 +16,5 @@ project-manager@3.3.5
 script@3.17.3
 svg-preview@0.12.1
 todo-show@2.1.0
-vim-mode-plus@1.26.0
+vim-mode-plus@1.28.0
 
