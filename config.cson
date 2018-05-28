@@ -24,6 +24,8 @@
   linter: {}
   "linter-ui-default":
     panelHeight: 69
+  "markdown-preview":
+    useGitHubStyle: true
   minimap:
     plugins:
       "highlight-selected": true
