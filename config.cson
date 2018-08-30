@@ -34,7 +34,10 @@
       "minimap-autohide": true
       "minimap-autohideDecorationsZIndex": 0
   "platformio-ide-terminal":
-    core: {}
+    core:
+      shell: "C:\\Program Files\\Git\\bin\\bash.exe"
+    toggles:
+      autoClose: true
   "terminal-plus":
     core: {}
   "vim-mode-plus": {}
