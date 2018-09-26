@@ -1,13 +1,13 @@
 atom-beautify@0.33.1
 busy-signal@1.4.3
 emmet@2.4.3
-file-icons@2.1.24
+file-icons@2.1.25
 highlight-selected@0.14.0
 intentions@1.1.5
 linter@2.2.0
 linter-ui-default@1.7.1
 maximize-panes@0.2.0
-minimap@4.29.8
+minimap@4.29.9
 minimap-autohide@0.10.1
 minimap-highlight-selected@4.6.1
 pigments@0.40.2
