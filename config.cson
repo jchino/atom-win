@@ -11,6 +11,9 @@
       keep_function_indentation: true
     json: {}
   core:
+    disabledPackages: [
+      "spell-check"
+    ]
     telemetryConsent: "no"
     uriHandlerRegistration: "never"
   editor:
@@ -36,8 +39,7 @@
   "platformio-ide-terminal":
     core:
       shell: "C:\\Program Files\\Git\\bin\\bash.exe"
-    toggles:
-      autoClose: true
+    toggles: {}
   "terminal-plus":
     core: {}
   "vim-mode-plus": {}
