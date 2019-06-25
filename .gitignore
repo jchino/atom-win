@@ -1,4 +1,4 @@
-# Directory
+# Directories
 .apm
 .node-gyp
 blob-store
@@ -7,7 +7,8 @@ packages
 recovery
 storage
 
-# File
+# Files
 .apmrc
-projects.cson
+.atom-socket-secret-*
 github.cson
+projects.cson
