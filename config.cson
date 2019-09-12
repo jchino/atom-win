@@ -40,7 +40,8 @@
   "platformio-ide-terminal":
     core:
       shell: "C:\\Program Files\\Git\\bin\\bash.exe"
-    toggles: {}
+    toggles:
+      autoClose: true
   "terminal-plus":
     core: {}
   "vim-mode-plus": {}

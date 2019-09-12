@@ -6,12 +6,13 @@ highlight-selected@0.16.0
 intentions@1.1.5
 linter@2.3.1
 linter-ui-default@1.8.0
-markdown-writer@2.11.7
+markdown-writer@2.11.8
 maximize-panes@0.2.0
 minimap@4.29.9
 minimap-autohide@0.10.1
 minimap-highlight-selected@4.6.1
 pigments@0.40.2
+platformio-ide-terminal@2.9.4
 project-manager@3.3.7
 script@3.18.1
 svg-preview@0.14.0
