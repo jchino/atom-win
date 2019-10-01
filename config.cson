@@ -17,7 +17,7 @@
     telemetryConsent: "no"
     uriHandlerRegistration: "never"
   editor:
-    fontFamily: "源ノ角ゴシック Code JP"
+    fontFamily: "\"Source Han Code JP\""
     invisibles: {}
     showIndentGuide: true
   "exception-reporting":
@@ -28,7 +28,6 @@
   linter: {}
   "linter-ui-default":
     panelHeight: 69
-    showPanel: true
   "markdown-preview":
     useGitHubStyle: true
   minimap:
